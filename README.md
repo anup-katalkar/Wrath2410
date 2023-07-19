@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wrath2410
+- 👋 Hi, I’m @Anup Katalkar
 - 👀 I’m interested in devops and security infrasturcture
 - 🌱 I’m currently learning PG DITISS
 - 📫 How to reach me katalkaranup@gmail.com
